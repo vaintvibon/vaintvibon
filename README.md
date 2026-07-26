@@ -1,4 +1,3 @@
-```html
 <!-- =========================
      GitHub Profile README
      ========================= -->
@@ -267,4 +266,3 @@ High-performance inference
 />
 
 </div>
-```
