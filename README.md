@@ -9,4 +9,4 @@
 </ul>
 
 <h3>CONTACT</h3>
-<p> <a href="mailto:이메일주소"> jin03071@kyonggi.ac.kr<img src="https://img.shields.io/badge/Email-이메일주소-EA4335?style=flat-square&logo=gmail&logoColor=white"/> </a> </p>
+<p> <a href="raise0731@gmaul.com"> <img src="https://img.shields.io/badge/Email-raise0731@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> </a> </p>
