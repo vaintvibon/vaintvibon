@@ -9,8 +9,7 @@
   <li>Vision Transformer의 동적 Attention Head 구조를 연구하고 있습니다.</li>
   <li>생활 속 불편을 해결하는 웹·앱 서비스를 개발하고 싶습니다.</li>
 </ul>
-
-<br>
+<br/>
 <h3>CONTACT</h3>
 <p>
   <a href="mailto:raise0731@gmail.com">
